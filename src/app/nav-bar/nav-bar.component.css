@@ -1,0 +1,14 @@
+li{
+    font-size:medium;
+}
+.navbar-brand{
+    font-size: 2rem !important;
+}
+.mynav{
+    background-color: #2C3E50 !important;
+}
+
+.active{
+    background-color: #1ABC9C;
+    
+}

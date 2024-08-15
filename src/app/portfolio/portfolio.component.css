@@ -1,0 +1,26 @@
+.line
+{
+    background-color: #2C3E50;
+    height: 4px;
+    width: 80px;
+}
+h1{
+    color: #2C3E50;
+}
+.overlay{
+    top: 0;
+    
+    width: 94.5%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1ABC9C;
+    transition: all 0.5s;
+    cursor: pointer;
+    opacity: 0;
+}
+.overlay:hover{
+    opacity: 0.85;
+    transition: all 0.5s;
+}
